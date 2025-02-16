@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000000;
+    color: #808080;
+    font-weight: 500;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: linear-gradient(135deg, #1a2535 0%, #1e2f45 100%);
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.player-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#audio-player {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px 0;
+}
+
+.lyrics-container {
+    line-height: 2.2;
+    font-size: 20px;
+    padding: 20px;
+    letter-spacing: 0.5px;
+}
+
+.lyrics-line {
+    padding: 8px;
+    margin: 4px 0;
+    border-radius: 4px;
+}
+
+.word {
+    display: inline-block;
+    padding: 2px 4px;
+    margin: 0 2px;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+    color: #808080;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.word:hover {
+    transform: scale(1.1);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.word.active, .word.sung {
+    color: white;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cover-image {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 20px rgba(255, 255, 255, 0.1);
+}
+
+.song-title {
+    font-size: 32px;
+    color: white;
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.song-subtitle {
+    font-size: 18px;
+    color: #808080;
+    margin: 0;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+/* Loading spinner */
+.loading {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.loading-spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.loading.active {
+    display: block;
+}
+
+.content.loading {
+    opacity: 0.5;
+    pointer-events: none;
+}

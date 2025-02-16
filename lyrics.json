@@ -1,0 +1,1144 @@
+[
+    {
+        "start": 3.97,
+        "end": 13.89,
+        "text": "Sharks are fish with skeletons made of cartilage, sharp teeth, and a fusiform body shape",
+        "language": "english",
+        "words": [
+            {
+                "word": "Sharks",
+                "start": 3.97,
+                "end": 4.38,
+                "score": 0.88
+            },
+            {
+                "word": "are",
+                "start": 4.49,
+                "end": 4.84,
+                "score": 0.83
+            },
+            {
+                "word": "fish",
+                "start": 4.88,
+                "end": 5.53,
+                "score": 0.99
+            },
+            {
+                "word": "with",
+                "start": 5.57,
+                "end": 5.99,
+                "score": 0.99
+            },
+            {
+                "word": "skeletons",
+                "start": 5.99,
+                "end": 6.89,
+                "score": 0.98
+            },
+            {
+                "word": "made",
+                "start": 6.93,
+                "end": 7.31,
+                "score": 0.41
+            },
+            {
+                "word": "of",
+                "start": 7.35,
+                "end": 7.48,
+                "score": 0.92
+            },
+            {
+                "word": "cartilage,",
+                "start": 7.52,
+                "end": 8.77,
+                "score": 0.66
+            },
+            {
+                "word": "sharp",
+                "start": 8.81,
+                "end": 9.26,
+                "score": 0.81
+            },
+            {
+                "word": "teeth,",
+                "start": 9.3,
+                "end": 10.51,
+                "score": 0.9
+            },
+            {
+                "word": "and",
+                "start": 10.62,
+                "end": 10.86,
+                "score": 0.97
+            },
+            {
+                "word": "a",
+                "start": 10.87,
+                "end": 11.0,
+                "score": 0.93
+            },
+            {
+                "word": "fusiform",
+                "start": 11.01,
+                "end": 11.87,
+                "score": 0.39
+            },
+            {
+                "word": "body",
+                "start": 11.88,
+                "end": 12.6,
+                "score": 0.97
+            },
+            {
+                "word": "shape",
+                "start": 12.61,
+                "end": 13.89,
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "start": 13.9,
+        "end": 25.0,
+        "text": "They are apex predators that play a vital role in the ocean's health appearance",
+        "language": "english",
+        "words": [
+            {
+                "word": "They",
+                "start": 13.9,
+                "end": 14.24,
+                "score": 0.8
+            },
+            {
+                "word": "are",
+                "start": 14.31,
+                "end": 14.52,
+                "score": 0.98
+            },
+            {
+                "word": "apex",
+                "start": 14.59,
+                "end": 15.36,
+                "score": 0.99
+            },
+            {
+                "word": "predators",
+                "start": 15.39,
+                "end": 17.55,
+                "score": 0.97
+            },
+            {
+                "word": "that",
+                "start": 17.59,
+                "end": 18.0,
+                "score": 0.98
+            },
+            {
+                "word": "play",
+                "start": 18.01,
+                "end": 18.45,
+                "score": 0.95
+            },
+            {
+                "word": "a",
+                "start": 18.53,
+                "end": 18.87,
+                "score": 0.97
+            },
+            {
+                "word": "vital",
+                "start": 18.91,
+                "end": 19.6,
+                "score": 0.91
+            },
+            {
+                "word": "role",
+                "start": 19.61,
+                "end": 20.2,
+                "score": 0.99
+            },
+            {
+                "word": "in",
+                "start": 20.27,
+                "end": 20.48,
+                "score": 0.97
+            },
+            {
+                "word": "the",
+                "start": 20.51,
+                "end": 20.65,
+                "score": 0.87
+            },
+            {
+                "word": "ocean's",
+                "start": 20.69,
+                "end": 21.31,
+                "score": 0.44
+            },
+            {
+                "word": "health",
+                "start": 21.39,
+                "end": 22.81,
+                "score": 0.91
+            },
+            {
+                "word": "appearance",
+                "start": 22.88,
+                "end": 25.0,
+                "score": 0.99
+            }
+        ]
+    },
+    {
+        "start": 25.04,
+        "end": 29.49,
+        "text": "Sharks have tough gray skin with tooth-like scales",
+        "language": "english",
+        "words": [
+            {
+                "word": "Sharks",
+                "start": 25.04,
+                "end": 25.49,
+                "score": 0.7
+            },
+            {
+                "word": "have",
+                "start": 25.53,
+                "end": 25.91,
+                "score": 0.93
+            },
+            {
+                "word": "tough",
+                "start": 25.91,
+                "end": 26.33,
+                "score": 0.96
+            },
+            {
+                "word": "gray",
+                "start": 26.37,
+                "end": 26.81,
+                "score": 0.73
+            },
+            {
+                "word": "skin",
+                "start": 26.82,
+                "end": 27.23,
+                "score": 0.96
+            },
+            {
+                "word": "with",
+                "start": 27.27,
+                "end": 27.65,
+                "score": 0.96
+            },
+            {
+                "word": "tooth-like",
+                "start": 27.69,
+                "end": 28.38,
+                "score": 0.52
+            },
+            {
+                "word": "scales",
+                "start": 28.39,
+                "end": 29.49,
+                "score": 0.96
+            }
+        ]
+    },
+    {
+        "start": 31.07,
+        "end": 38.17,
+        "text": "They have a muscular upturned tail and pointed fins",
+        "language": "english",
+        "words": [
+            {
+                "word": "They",
+                "start": 31.07,
+                "end": 31.48,
+                "score": 0.65
+            },
+            {
+                "word": "have",
+                "start": 31.49,
+                "end": 31.69,
+                "score": 0.83
+            },
+            {
+                "word": "a",
+                "start": 31.73,
+                "end": 31.97,
+                "score": 0.96
+            },
+            {
+                "word": "muscular",
+                "start": 31.97,
+                "end": 33.64,
+                "score": 0.96
+            },
+            {
+                "word": "upturned",
+                "start": 33.75,
+                "end": 34.72,
+                "score": 0.89
+            },
+            {
+                "word": "tail",
+                "start": 34.76,
+                "end": 35.17,
+                "score": 0.32
+            },
+            {
+                "word": "and",
+                "start": 35.21,
+                "end": 35.59,
+                "score": 0.61
+            },
+            {
+                "word": "pointed",
+                "start": 35.6,
+                "end": 37.16,
+                "score": 0.96
+            },
+            {
+                "word": "fins",
+                "start": 37.2,
+                "end": 38.17,
+                "score": 0.98
+            }
+        ]
+    },
+    {
+        "start": 38.21,
+        "end": 45.2,
+        "text": "They have a pointed snout that extends forward over their mouth",
+        "language": "english",
+        "words": [
+            {
+                "word": "They",
+                "start": 38.21,
+                "end": 38.48,
+                "score": 0.68
+            },
+            {
+                "word": "have",
+                "start": 38.52,
+                "end": 38.87,
+                "score": 0.99
+            },
+            {
+                "word": "a",
+                "start": 38.9,
+                "end": 39.07,
+                "score": 0.93
+            },
+            {
+                "word": "pointed",
+                "start": 39.11,
+                "end": 39.77,
+                "score": 0.91
+            },
+            {
+                "word": "snout",
+                "start": 39.78,
+                "end": 40.22,
+                "score": 0.96
+            },
+            {
+                "word": "that",
+                "start": 40.23,
+                "end": 40.43,
+                "score": 0.98
+            },
+            {
+                "word": "extends",
+                "start": 40.44,
+                "end": 41.13,
+                "score": 0.48
+            },
+            {
+                "word": "forward",
+                "start": 41.17,
+                "end": 41.76,
+                "score": 0.4
+            },
+            {
+                "word": "over",
+                "start": 41.83,
+                "end": 42.17,
+                "score": 0.78
+            },
+            {
+                "word": "their",
+                "start": 42.18,
+                "end": 42.42,
+                "score": 0.96
+            },
+            {
+                "word": "mouth",
+                "start": 42.46,
+                "end": 45.2,
+                "score": 0.98
+            }
+        ]
+    },
+    {
+        "start": 45.21,
+        "end": 53.08,
+        "text": "They have sharp triangular teeth that grow throughout their life behavior",
+        "language": "english",
+        "words": [
+            {
+                "word": "They",
+                "start": 45.21,
+                "end": 45.52,
+                "score": 0.98
+            },
+            {
+                "word": "have",
+                "start": 45.52,
+                "end": 45.9,
+                "score": 0.63
+            },
+            {
+                "word": "sharp",
+                "start": 45.94,
+                "end": 46.77,
+                "score": 0.97
+            },
+            {
+                "word": "triangular",
+                "start": 46.81,
+                "end": 47.68,
+                "score": 0.95
+            },
+            {
+                "word": "teeth",
+                "start": 47.72,
+                "end": 48.51,
+                "score": 0.98
+            },
+            {
+                "word": "that",
+                "start": 48.55,
+                "end": 48.72,
+                "score": 0.97
+            },
+            {
+                "word": "grow",
+                "start": 48.73,
+                "end": 49.04,
+                "score": 0.63
+            },
+            {
+                "word": "throughout",
+                "start": 49.04,
+                "end": 49.45,
+                "score": 0.36
+            },
+            {
+                "word": "their",
+                "start": 49.46,
+                "end": 49.84,
+                "score": 0.68
+            },
+            {
+                "word": "life",
+                "start": 49.84,
+                "end": 50.88,
+                "score": 0.88
+            },
+            {
+                "word": "behavior",
+                "start": 50.92,
+                "end": 53.08,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "start": 53.12,
+        "end": 57.68,
+        "text": "Sharks can unhinge their jaws and destroy large prey",
+        "language": "english",
+        "words": [
+            {
+                "word": "Sharks",
+                "start": 53.12,
+                "end": 53.53,
+                "score": 0.98
+            },
+            {
+                "word": "can",
+                "start": 53.57,
+                "end": 53.84,
+                "score": 0.99
+            },
+            {
+                "word": "unhinge",
+                "start": 54.02,
+                "end": 54.64,
+                "score": 0.96
+            },
+            {
+                "word": "their",
+                "start": 54.68,
+                "end": 54.89,
+                "score": 0.99
+            },
+            {
+                "word": "jaws",
+                "start": 54.93,
+                "end": 55.34,
+                "score": 0.99
+            },
+            {
+                "word": "and",
+                "start": 55.38,
+                "end": 55.58,
+                "score": 0.68
+            },
+            {
+                "word": "destroy",
+                "start": 55.59,
+                "end": 56.18,
+                "score": 0.96
+            },
+            {
+                "word": "large",
+                "start": 56.22,
+                "end": 56.63,
+                "score": 0.99
+            },
+            {
+                "word": "prey",
+                "start": 56.67,
+                "end": 57.68,
+                "score": 0.99
+            }
+        ]
+    },
+    {
+        "start": 59.25,
+        "end": 66.21,
+        "text": "They can track large prey by following their low-pitched sounds",
+        "language": "english",
+        "words": [
+            {
+                "word": "They",
+                "start": 59.25,
+                "end": 59.66,
+                "score": 0.98
+            },
+            {
+                "word": "can",
+                "start": 59.66,
+                "end": 60.11,
+                "score": 0.72
+            },
+            {
+                "word": "track",
+                "start": 60.12,
+                "end": 60.53,
+                "score": 0.94
+            },
+            {
+                "word": "large",
+                "start": 60.57,
+                "end": 60.98,
+                "score": 0.98
+            },
+            {
+                "word": "prey",
+                "start": 61.02,
+                "end": 61.44,
+                "score": 0.98
+            },
+            {
+                "word": "by",
+                "start": 61.47,
+                "end": 61.85,
+                "score": 0.48
+            },
+            {
+                "word": "following",
+                "start": 61.89,
+                "end": 62.58,
+                "score": 0.87
+            },
+            {
+                "word": "their",
+                "start": 62.59,
+                "end": 62.79,
+                "score": 0.92
+            },
+            {
+                "word": "low-pitched",
+                "start": 62.83,
+                "end": 63.42,
+                "score": 0.95
+            },
+            {
+                "word": "sounds",
+                "start": 63.43,
+                "end": 66.21,
+                "score": 0.98
+            }
+        ]
+    },
+    {
+        "start": 66.25,
+        "end": 73.24,
+        "text": "They can smell blood in the water from miles away",
+        "language": "english",
+        "words": [
+            {
+                "word": "They",
+                "start": 66.25,
+                "end": 66.52,
+                "score": 0.96
+            },
+            {
+                "word": "can",
+                "start": 66.53,
+                "end": 66.76,
+                "score": 0.96
+            },
+            {
+                "word": "smell",
+                "start": 66.8,
+                "end": 67.18,
+                "score": 0.95
+            },
+            {
+                "word": "blood",
+                "start": 67.19,
+                "end": 68.33,
+                "score": 0.94
+            },
+            {
+                "word": "in",
+                "start": 68.37,
+                "end": 68.51,
+                "score": 0.95
+            },
+            {
+                "word": "the",
+                "start": 68.51,
+                "end": 68.71,
+                "score": 0.96
+            },
+            {
+                "word": "water",
+                "start": 68.75,
+                "end": 69.34,
+                "score": 0.36
+            },
+            {
+                "word": "from",
+                "start": 69.35,
+                "end": 69.59,
+                "score": 0.5
+            },
+            {
+                "word": "miles",
+                "start": 69.62,
+                "end": 70.25,
+                "score": 0.96
+            },
+            {
+                "word": "away",
+                "start": 70.32,
+                "end": 73.24,
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "start": 73.28,
+        "end": 79.23,
+        "text": "They must swim perpetually to keep from sinking",
+        "language": "english",
+        "words": [
+            {
+                "word": "They",
+                "start": 73.28,
+                "end": 73.56,
+                "score": 1.0
+            },
+            {
+                "word": "must",
+                "start": 73.56,
+                "end": 73.97,
+                "score": 0.82
+            },
+            {
+                "word": "swim",
+                "start": 73.98,
+                "end": 74.6,
+                "score": 0.99
+            },
+            {
+                "word": "perpetually",
+                "start": 74.61,
+                "end": 76.59,
+                "score": 0.96
+            },
+            {
+                "word": "to",
+                "start": 76.63,
+                "end": 76.76,
+                "score": 0.54
+            },
+            {
+                "word": "keep",
+                "start": 76.8,
+                "end": 77.14,
+                "score": 0.55
+            },
+            {
+                "word": "from",
+                "start": 77.18,
+                "end": 77.63,
+                "score": 0.87
+            },
+            {
+                "word": "sinking",
+                "start": 77.67,
+                "end": 79.23,
+                "score": 0.21
+            }
+        ]
+    },
+    {
+        "start": 79.24,
+        "end": 80.52,
+        "text": "Diet",
+        "language": "english",
+        "words": [
+            {
+                "word": "Diet",
+                "start": 79.24,
+                "end": 80.52,
+                "score": 0.92
+            }
+        ]
+    },
+    {
+        "start": 80.56,
+        "end": 85.52,
+        "text": "Most shark species eat fish, seals, penguins, and other sharks",
+        "language": "english",
+        "words": [
+            {
+                "word": "Most",
+                "start": 80.56,
+                "end": 80.97,
+                "score": 0.98
+            },
+            {
+                "word": "shark",
+                "start": 81.01,
+                "end": 81.43,
+                "score": 0.94
+            },
+            {
+                "word": "species",
+                "start": 81.47,
+                "end": 82.05,
+                "score": 0.95
+            },
+            {
+                "word": "eat",
+                "start": 82.16,
+                "end": 82.44,
+                "score": 1.0
+            },
+            {
+                "word": "fish,",
+                "start": 82.48,
+                "end": 82.93,
+                "score": 0.91
+            },
+            {
+                "word": "seals,",
+                "start": 82.93,
+                "end": 83.34,
+                "score": 0.56
+            },
+            {
+                "word": "penguins,",
+                "start": 83.38,
+                "end": 84.0,
+                "score": 0.96
+            },
+            {
+                "word": "and",
+                "start": 84.01,
+                "end": 84.25,
+                "score": 0.96
+            },
+            {
+                "word": "other",
+                "start": 84.32,
+                "end": 84.53,
+                "score": 0.97
+            },
+            {
+                "word": "sharks",
+                "start": 84.57,
+                "end": 85.52,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "start": 86.87,
+        "end": 89.89,
+        "text": "Some of the largest shark species",
+        "language": "english",
+        "words": [
+            {
+                "word": "Some",
+                "start": 86.87,
+                "end": 87.24,
+                "score": 0.93
+            },
+            {
+                "word": "of",
+                "start": 87.35,
+                "end": 87.77,
+                "score": 0.86
+            },
+            {
+                "word": "the",
+                "start": 87.77,
+                "end": 88.18,
+                "score": 0.32
+            },
+            {
+                "word": "largest",
+                "start": 88.19,
+                "end": 88.67,
+                "score": 0.81
+            },
+            {
+                "word": "shark",
+                "start": 88.68,
+                "end": 89.06,
+                "score": 0.94
+            },
+            {
+                "word": "species",
+                "start": 89.06,
+                "end": 89.89,
+                "score": 0.99
+            }
+        ]
+    },
+    {
+        "start": 89.93,
+        "end": 92.82,
+        "text": "Such as the whale shark and the basking shark",
+        "language": "english",
+        "words": [
+            {
+                "word": "Such",
+                "start": 89.93,
+                "end": 90.2,
+                "score": 0.98
+            },
+            {
+                "word": "as",
+                "start": 90.21,
+                "end": 90.38,
+                "score": 0.82
+            },
+            {
+                "word": "the",
+                "start": 90.38,
+                "end": 90.62,
+                "score": 0.8
+            },
+            {
+                "word": "whale",
+                "start": 90.63,
+                "end": 91.08,
+                "score": 0.88
+            },
+            {
+                "word": "shark",
+                "start": 91.11,
+                "end": 91.42,
+                "score": 0.99
+            },
+            {
+                "word": "and",
+                "start": 91.43,
+                "end": 91.56,
+                "score": 0.97
+            },
+            {
+                "word": "the",
+                "start": 91.57,
+                "end": 91.7,
+                "score": 0.42
+            },
+            {
+                "word": "basking",
+                "start": 91.71,
+                "end": 92.36,
+                "score": 0.74
+            },
+            {
+                "word": "shark",
+                "start": 92.37,
+                "end": 92.82,
+                "score": 0.99
+            }
+        ]
+    },
+    {
+        "start": 92.89,
+        "end": 94.31,
+        "text": "Only eat plankton",
+        "language": "english",
+        "words": [
+            {
+                "word": "Only",
+                "start": 92.89,
+                "end": 93.23,
+                "score": 0.23
+            },
+            {
+                "word": "eat",
+                "start": 93.31,
+                "end": 93.51,
+                "score": 0.43
+            },
+            {
+                "word": "plankton",
+                "start": 93.55,
+                "end": 94.31,
+                "score": 0.63
+            }
+        ]
+    },
+    {
+        "start": 94.32,
+        "end": 97.38,
+        "text": "Conservation",
+        "language": "english",
+        "words": [
+            {
+                "word": "Conservation",
+                "start": 94.32,
+                "end": 97.38,
+                "score": 0.96
+            }
+        ]
+    },
+    {
+        "start": 97.38,
+        "end": 103.62,
+        "text": "Shark populations around the world are in rapid decline",
+        "language": "english",
+        "words": [
+            {
+                "word": "Shark",
+                "start": 97.38,
+                "end": 97.8,
+                "score": 0.98
+            },
+            {
+                "word": "populations",
+                "start": 97.87,
+                "end": 99.43,
+                "score": 0.52
+            },
+            {
+                "word": "around",
+                "start": 99.58,
+                "end": 100.03,
+                "score": 0.96
+            },
+            {
+                "word": "the",
+                "start": 100.03,
+                "end": 100.27,
+                "score": 0.97
+            },
+            {
+                "word": "world",
+                "start": 100.31,
+                "end": 100.86,
+                "score": 0.93
+            },
+            {
+                "word": "are",
+                "start": 100.94,
+                "end": 101.11,
+                "score": 0.52
+            },
+            {
+                "word": "in",
+                "start": 101.15,
+                "end": 101.32,
+                "score": 0.96
+            },
+            {
+                "word": "rapid",
+                "start": 101.35,
+                "end": 101.91,
+                "score": 0.97
+            },
+            {
+                "word": "decline",
+                "start": 101.95,
+                "end": 103.62,
+                "score": 0.93
+            }
+        ]
+    },
+    {
+        "start": 103.86,
+        "end": 109.19,
+        "text": "Over ninety shark species are endangered",
+        "language": "english",
+        "words": [
+            {
+                "word": "Over",
+                "start": 103.86,
+                "end": 104.69,
+                "score": 0.95
+            },
+            {
+                "word": "ninety",
+                "start": 104.7,
+                "end": 105.29,
+                "score": 0.85
+            },
+            {
+                "word": "shark",
+                "start": 105.29,
+                "end": 105.7,
+                "score": 0.09
+            },
+            {
+                "word": "species",
+                "start": 105.71,
+                "end": 106.61,
+                "score": 0.44
+            },
+            {
+                "word": "are",
+                "start": 106.68,
+                "end": 107.03,
+                "score": 0.97
+            },
+            {
+                "word": "endangered",
+                "start": 107.1,
+                "end": 109.19,
+                "score": 0.99
+            }
+        ]
+    },
+    {
+        "start": 109.23,
+        "end": 123.85,
+        "text": "Some of the most endangered species include sand tiger sharks, great hammerheads and angel sharks",
+        "language": "english",
+        "words": [
+            {
+                "word": "Some",
+                "start": 109.23,
+                "end": 109.54,
+                "score": 0.85
+            },
+            {
+                "word": "of",
+                "start": 109.57,
+                "end": 109.67,
+                "score": 0.84
+            },
+            {
+                "word": "the",
+                "start": 109.68,
+                "end": 109.92,
+                "score": 0.66
+            },
+            {
+                "word": "most",
+                "start": 109.96,
+                "end": 110.34,
+                "score": 0.6
+            },
+            {
+                "word": "endangered",
+                "start": 110.41,
+                "end": 111.21,
+                "score": 0.85
+            },
+            {
+                "word": "species",
+                "start": 111.25,
+                "end": 112.04,
+                "score": 0.94
+            },
+            {
+                "word": "include",
+                "start": 112.15,
+                "end": 112.7,
+                "score": 0.43
+            },
+            {
+                "word": "sand",
+                "start": 112.74,
+                "end": 113.12,
+                "score": 0.82
+            },
+            {
+                "word": "tiger",
+                "start": 113.13,
+                "end": 113.61,
+                "score": 0.94
+            },
+            {
+                "word": "sharks,",
+                "start": 113.62,
+                "end": 114.03,
+                "score": 0.88
+            },
+            {
+                "word": "great",
+                "start": 114.07,
+                "end": 114.48,
+                "score": 0.83
+            },
+            {
+                "word": "hammerheads",
+                "start": 114.49,
+                "end": 115.73,
+                "score": 0.51
+            },
+            {
+                "word": "and",
+                "start": 115.84,
+                "end": 116.05,
+                "score": 0.38
+            },
+            {
+                "word": "angel",
+                "start": 116.12,
+                "end": 116.88,
+                "score": 0.87
+            },
+            {
+                "word": "sharks",
+                "start": 116.92,
+                "end": 123.85,
+                "score": 0.82
+            }
+        ]
+    }
+]
