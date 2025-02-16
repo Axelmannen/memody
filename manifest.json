@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Lyrics Player",
+  "name": "Memody",
   "version": "1.0",
   "description": "A synchronized lyrics player extension",
   "action": {

@@ -189,6 +189,21 @@ document.addEventListener('DOMContentLoaded', async () => {
                         
                         wordSpan.addEventListener('click', () => {
                             const startTime = parseFloat(wordData.start);
+                            // Update highlighting for all words
+                            const allWords = document.querySelectorAll('.word');
+                            allWords.forEach(w => {
+                                const wordStart = parseFloat(w.dataset.start);
+                                if (wordStart <= startTime) {
+                                    w.classList.add('sung');
+                                } else {
+                                    w.classList.remove('sung');
+                                }
+                                w.classList.remove('active');
+                            });
+                            // Set this word as active
+                            wordSpan.classList.add('active');
+                            
+                            // Start playing from this word
                             audioPlayer.currentTime = startTime;
                             setTimeout(() => {
                                 audioPlayer.play().catch(e => console.error('Playback failed:', e));
@@ -246,12 +261,23 @@ document.addEventListener('DOMContentLoaded', async () => {
     const words = document.querySelectorAll('.word');
     
     function updateLyrics(currentTime) {
+        const words = document.querySelectorAll('.word');
+        
         words.forEach(word => {
             const start = parseFloat(word.dataset.start);
             const end = parseFloat(word.dataset.end);
             
             if (currentTime >= start && currentTime <= end) {
                 word.classList.add('active');
+                // Add sung class to this word and all previous words
+                words.forEach(w => {
+                    const wordStart = parseFloat(w.dataset.start);
+                    if (wordStart <= start) {
+                        w.classList.add('sung');
+                    } else {
+                        w.classList.remove('sung');
+                    }
+                });
             } else {
                 word.classList.remove('active');
             }

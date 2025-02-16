@@ -7,6 +7,26 @@ body {
     font-weight: 500;
 }
 
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
+}
+
+.app-title {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #ee85fe;
+}
+
 .container {
     max-width: 800px;
     margin: 0 auto;
@@ -45,19 +65,22 @@ body {
     padding: 2px 4px;
     margin: 0 2px;
     border-radius: 3px;
-    transition: all 0.2s ease;
+    transition: all 0.3s ease;
     color: #808080;
     font-weight: 700;
     cursor: pointer;
 }
 
 .word:hover {
-    transform: scale(1.1);
-    background-color: rgba(255, 255, 255, 0.1);
+    color: white !important;
 }
 
-.word.active, .word.sung {
-    color: white;
+.word.active {
+    color: #ee85fe;
+}
+
+.word.sung {
+    color: #ee85fe;
 }
 
 .header {
@@ -98,15 +121,24 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+    width: 100%;
+}
+
+.loading p {
+    margin-top: 24px;
+    color: #ee85fe;
+    font-weight: 500;
+    font-size: 24px;
 }
 
 .loading-spinner {
-    width: 50px;
-    height: 50px;
-    border: 5px solid #f3f3f3;
-    border-top: 5px solid #3498db;
+    width: 80px;
+    height: 80px;
+    border: 6px solid rgba(238, 133, 254, 0.2);
+    border-top: 6px solid #ee85fe;
     border-radius: 50%;
     animation: spin 1s linear infinite;
+    margin: 0 auto;
 }
 
 @keyframes spin {

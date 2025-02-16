@@ -1,40 +1,32 @@
 // Listen for extension installation
 chrome.runtime.onInstalled.addListener(() => {
-  console.log('Lyrics Player Extension installed');
+  console.log('Memody Extension installed');
   
   // Create context menu item
   chrome.contextMenus.create({
-    id: "openLyricsPlayer",
-    title: "Search lyrics for '%s'",
+    id: "openMemody",
+    title: "Use Memody to memorize this",
     contexts: ["selection"]
   });
 });
 
 // Listen for extension icon click
 chrome.action.onClicked.addListener((tab) => {
-  openLyricsPlayer();
+  chrome.tabs.create({
+    url: chrome.runtime.getURL('index.html')
+  });
 });
 
 // Listen for context menu clicks
 chrome.contextMenus.onClicked.addListener((info, tab) => {
-  if (info.menuItemId === "openLyricsPlayer") {
+  if (info.menuItemId === "openMemody") {
     const selectedText = info.selectionText || '';
-    openLyricsPlayer(selectedText);
+    if (selectedText) {
+      chrome.storage.local.set({ 'selectedSongTitle': selectedText }, () => {
+        chrome.tabs.create({
+          url: chrome.runtime.getURL('index.html')
+        });
+      });
+    }
   }
 });
-
-// Function to open the lyrics player
-function openLyricsPlayer(songTitle = '') {
-  // Store the song title
-  if (songTitle) {
-    chrome.storage.local.set({ 'selectedSongTitle': songTitle }, () => {
-      chrome.tabs.create({
-        url: chrome.runtime.getURL('index.html')
-      });
-    });
-  } else {
-    chrome.tabs.create({
-      url: chrome.runtime.getURL('index.html')
-    });
-  }
-}
