@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const loadingMessage = loadingElement.querySelector('p');
     const mainContent = document.getElementById('main-content');
 
-    const MUSIC_AI_API_KEY = '3ac2a9ae-265d-4846-8af8-428bf9544aff'; 
+    const MUSIC_AI_API_KEY = 'b6c6aae5-652a-441f-af78-c1d2c69f045a'; 
 
     async function processAudioFile() {
         try {
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             console.log('Got download URL:', downloadUrl);
 
             // Upload the audio file
-            const audioUrl = chrome.runtime.getURL('AI Music-audio.mp3');
+            const audioUrl = chrome.runtime.getURL('example_civil_war.mp3');
             const audioResponse = await fetch(audioUrl);
             const audioBlob = await audioResponse.blob();
             
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 messages: [
                     {
                         role: "system",
-                        content: "You are a translator. Translate the given text to English. Only respond with the translation, nothing else."
+                        content: "Return a suitable title for the following text. Approximately three words. Do not add quotees or write 'title:' or anything like that."
                     },
                     {
                         role: "user",

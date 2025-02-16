@@ -72,15 +72,15 @@ body {
 }
 
 .word:hover {
-    color: white !important;
+    color: #ee85fe !important;
 }
 
 .word.active {
-    color: #ee85fe;
+    color: white;
 }
 
 .word.sung {
-    color: #ee85fe;
+    color: white;
 }
 
 .header {

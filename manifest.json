@@ -32,8 +32,9 @@
   "web_accessible_resources": [{
     "resources": [
       "AI Music-audio.mp3",
+      "example_civil_war.mp3",
       "lyrics.json",
-      "image.png",
+      "image_example_eagle.jpeg",
       "index.html",
       "styles.css",
       "script.js"
